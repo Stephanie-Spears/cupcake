@@ -1,0 +1,13 @@
+.flashy {
+  color: red;
+  font-style: italic;
+}
+
+.best {
+  font-size: 2em;
+  color: crimson;
+}
+
+img {
+  max-width: 500px;
+}
